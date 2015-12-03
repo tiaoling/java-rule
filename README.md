@@ -1,2 +1,2 @@
-# java-rule
-java coding rule
+# java 编码规范
+
