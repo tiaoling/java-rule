@@ -4,7 +4,7 @@
 ```
 User   ApplicationContext
 ```
-2. 方法名称采用驼峰命名法
+2. 方法名称，实例对象采用驼峰命名法
 ```
 addUser()
 ```
